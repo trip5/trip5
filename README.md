@@ -12,7 +12,7 @@ I love programming but I'm not a professional.  Just obsessed with tinkering and
 <table>
   <tr>
     <td align="center" width="50%">
-      <h3><a href="https://github.com/trip5/stormlamp">StormLamp</a></h3>
+      <h3><a href="https://github.com/trip5/StormLamp">StormLamp</a></h3>
     </td>
     <td align="center" width="50%">
       <h3><a href="https://github.com/trip5/ESPHome-eInk-Boards">ESPHome-eInk-Boards</a></h3>
@@ -34,6 +34,32 @@ I love programming but I'm not a professional.  Just obsessed with tinkering and
     </td>
 </table>
 
+### ESP32 Radio: ehRadio ###
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <h3><a href="https://github.com/trip5/ehRadio">ehRadio</a></h3>
+    </td>
+    <td align="center" width="50%">
+      <h3><a href="https://github.com/trip5/ehRadio_myoptions">ehRadio_myoptions</a></h3>
+    </td>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://raw.githubusercontent.com/trip5/ehRadio/refs/heads/main/images/logo-color.svg" width="90%" max-height="150px" alt="ehRadio" />
+    </td>
+    <td align="center" width="50%">
+      <img src="https://raw.githubusercontent.com/trip5/ehRadio_myoptions/refs/heads/ehradio/images/myoptions-generator.jpg" width="90%" max-height="150px" alt="myoptions-generator" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+     ESP32 Radio<br />(forked from yoRadio 0.9.533)
+    </td>
+    <td align="center" width="50%">
+      ehRadio/yoRadio myoptions.h generator
+    </td>
+</table>
 
 ### ESPHome-based Clocks ###
 
