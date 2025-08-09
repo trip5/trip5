@@ -46,7 +46,7 @@ I love programming but I'm not a professional.  Just obsessed with tinkering and
     </td>
   <tr>
     <td align="center" width="50%">
-      <img src="https://raw.githubusercontent.com/trip5/ehRadio/refs/heads/main/images/logo-color.svg" width="90%" max-height="150px" alt="ehRadio" />
+      <img src="https://raw.githubusercontent.com/trip5/ehRadio/refs/heads/ehradio/images/logo-color.svg" width="90%" max-height="150px" alt="ehRadio" />
     </td>
     <td align="center" width="50%">
       <img src="https://raw.githubusercontent.com/trip5/ehRadio_myoptions/refs/heads/ehradio/images/myoptions-generator.jpg" width="90%" max-height="150px" alt="myoptions-generator" />
