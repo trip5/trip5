@@ -42,7 +42,7 @@ I love programming but I'm not a professional.  Just obsessed with tinkering and
       <h3><a href="https://github.com/trip5/ehRadio">ehRadio</a></h3>
     </td>
     <td align="center" width="50%">
-      <h3><a href="https://github.com/trip5/ehRadio_myoptions">ehRadio_myoptions</a></h3>
+      <h3><a href="https://trip5.github.io/ehRadio_myoptions/generator.html">ehRadio_myoptions</a></h3>
     </td>
   <tr>
     <td align="center" width="50%">
