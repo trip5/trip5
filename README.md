@@ -121,12 +121,32 @@ I love programming but I'm not a professional.  Just obsessed with tinkering and
   </tr>
   <tr>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/trip5/Matrix-Fonts/refs/heads/main/8-series/MatrixChunky8X.png" width="90%" max-height="150px" alt="MatrixChunky8X Font" />
+      <img src="https://raw.githubusercontent.com/trip5/Matrix-Fonts/refs/heads/main/images/MatrixFonts.png" width="90%" max-height="150px" alt="MatrixChunky8X Font" />
     </td>
   </tr>
   <tr>
     <td align="center">
-      to be used with LED Matrix Clocks and other LED Matrix projects with 6 or 8 pixel-height displays
+      for LED Matrix displays with 6 or 8 rows of pixels
+    </td>
+  </tr>
+</table>
+
+### eh Discovery Protocol ###
+
+<table>
+  <tr>
+    <td align="center">
+      <h3><a href="https://github.com/trip5/eh-Device-Scanner">eh Device Scanner</a></h3>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/trip5/eh-Device-Scanner/refs/heads/main/images/Feature.png" width="90%" max-height="150px" alt="MatrixChunky8X Font" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      Android app that searches for devices that respond to <a href="https://github.com/trip5/ehdp">ehDP (eh Discovery Protocol)</a>.
     </td>
   </tr>
 </table>
