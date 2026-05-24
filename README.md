@@ -38,17 +38,26 @@ I love programming but I'm not a professional.  Just obsessed with tinkering and
 
 <table>
   <tr>
-    <td align="center" width="100%">
+    <td align="center" width="50%">
       <h3><a href="https://github.com/trip5/ehRadio">ehRadio</a></h3>
     </td>
+    <td align="center" width="50%">
+      <h3><a href="https://github.com/trip5/eh-Device-Scanner">eh Device Scanner</a></h3>
+    </td>
   <tr>
-    <td align="center" width="100%">
-      <img src="https://raw.githubusercontent.com/trip5/ehRadio/refs/heads/ehradio/images/logo-color.svg" width="90%" max-height="150px" alt="ehRadio" />
+    <td align="center" width="50%">
+      <img src="https://raw.githubusercontent.com/trip5/ehRadio/refs/heads/main/images/logo-color.svg" width="90%" max-height="150px" alt="ehRadio" />
+    </td>
+    <td align="center" width="50%">
+      <img src="https://raw.githubusercontent.com/trip5/eh-Device-Scanner/refs/heads/main/images/Feature.png" width="90%" max-height="150px" alt="MatrixChunky8X Font" />
     </td>
   </tr>
   <tr>
-    <td align="center" width="100%">
+    <td align="center" width="50%">
      ESP32 Radio<br />(forked from ёRadio)
+    </td>
+    <td align="center" width="50%">
+      Android app that searches for devices that respond to <a href="https://github.com/trip5/ehdp">ehDP (eh Discovery Protocol)</a>.
     </td>
 </table>
 
@@ -126,19 +135,12 @@ I love programming but I'm not a professional.  Just obsessed with tinkering and
 
 <table>
   <tr>
-    <td align="center">
-      <h3><a href="https://github.com/trip5/eh-Device-Scanner">eh Device Scanner</a></h3>
-    </td>
+
   </tr>
   <tr>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/trip5/eh-Device-Scanner/refs/heads/main/images/Feature.png" width="90%" max-height="150px" alt="MatrixChunky8X Font" />
-    </td>
+
   </tr>
-  <tr>
-    <td align="center">
-      Android app that searches for devices that respond to <a href="https://github.com/trip5/ehdp">ehDP (eh Discovery Protocol)</a>.
-    </td>
+
   </tr>
 </table>
 
