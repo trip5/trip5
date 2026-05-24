@@ -131,18 +131,6 @@ I love programming but I'm not a professional.  Just obsessed with tinkering and
   </tr>
 </table>
 
-### eh Discovery Protocol ###
-
-<table>
-  <tr>
-
-  </tr>
-  <tr>
-
-  </tr>
-
-  </tr>
-</table>
 
 ### Snake ###
 
