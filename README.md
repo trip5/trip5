@@ -19,10 +19,10 @@ I love programming but I'm not a professional.  Just obsessed with tinkering and
     </td>
   <tr>
     <td align="center" width="50%">
-      <img src="https://raw.githubusercontent.com/trip5/stormlamp/refs/heads/main/images/stormlamp.jpg" width="90%" max-height="150px" alt="StormLamp" />
+      <a href="https://github.com/trip5/StormLamp"><img src="https://raw.githubusercontent.com/trip5/stormlamp/refs/heads/main/images/stormlamp.jpg" width="90%" max-height="150px" alt="StormLamp" /></a>
     </td>
     <td align="center" width="50%">
-      <img src="https://raw.githubusercontent.com/trip5/ESPHome-eInk-Boards/refs/heads/main/images/weatherboard.jpg" width="90%" max-height="150px" alt="ESPHome-eInk-Board Weatherboard" />
+      <a href="https://github.com/trip5/ESPHome-eInk-Boards"><img src="https://raw.githubusercontent.com/trip5/ESPHome-eInk-Boards/refs/heads/main/images/weatherboard.jpg" width="90%" max-height="150px" alt="ESPHome-eInk-Board Weatherboard" /></a>
     </td>
   </tr>
   <tr>
@@ -46,10 +46,10 @@ I love programming but I'm not a professional.  Just obsessed with tinkering and
     </td>
   <tr>
     <td align="center" width="50%">
-      <img src="https://raw.githubusercontent.com/trip5/ehRadio/refs/heads/main/images/logo-color.svg" width="90%" max-height="150px" alt="ehRadio" />
+      <a href="https://github.com/trip5/ehRadio"><img src="https://raw.githubusercontent.com/trip5/ehRadio/refs/heads/main/images/logo-color.svg" width="90%" max-height="150px" alt="ehRadio" /></a>
     </td>
     <td align="center" width="50%">
-      <img src="https://raw.githubusercontent.com/trip5/eh-Device-Scanner/refs/heads/main/images/Feature.png" width="90%" max-height="150px" alt="MatrixChunky8X Font" />
+      <a href="https://github.com/trip5/eh-Device-Scanner"><img src="https://raw.githubusercontent.com/trip5/eh-Device-Scanner/refs/heads/main/images/Feature.png" width="90%" max-height="150px" alt="MatrixChunky8X Font" /></a>
     </td>
   </tr>
   <tr>
@@ -71,10 +71,10 @@ I love programming but I'm not a professional.  Just obsessed with tinkering and
   </tr>
   <tr>
     <td align="center" width="50%">
-      <img src="https://raw.githubusercontent.com/trip5/EspHome-Led-Clock/refs/heads/main/images/sinilink_XY-Clock.jpg" width="90%" max-height="150px" alt="Sinilink XY-Clock" />
+      <a href="https://github.com/trip5/EspHome-Led-Clock"><img src="https://raw.githubusercontent.com/trip5/EspHome-Led-Clock/refs/heads/main/images/sinilink_XY-Clock.jpg" width="90%" max-height="150px" alt="Sinilink XY-Clock" /></a>
     </td>
     <td align="center" width="50%">
-      <img src="https://raw.githubusercontent.com/trip5/EspHome-Led-Clock/refs/heads/main/images/TM1637-boxclock.jpg" width="90%" max-height="150px" alt="EspHome-Led-Clock BoxClock" />
+      <a href="https://github.com/trip5/EspHome-Led-Clock"><img src="https://raw.githubusercontent.com/trip5/EspHome-Led-Clock/refs/heads/main/images/TM1637-boxclock.jpg" width="90%" max-height="150px" alt="EspHome-Led-Clock BoxClock" /></a>
     </td>
   </tr>
   <tr>
@@ -94,10 +94,10 @@ I love programming but I'm not a professional.  Just obsessed with tinkering and
   </tr>
   <tr>
     <td align="center" width="50%">
-      <img src="https://raw.githubusercontent.com/trip5/EspHome-Led-PixelClock/refs/heads/main/images/Korean-demo.gif" width="90%" max-height="150px" alt="StormLamp" />
+      <a href="https://github.com/trip5/EspHome-Led-PixelClock"><img src="https://raw.githubusercontent.com/trip5/EspHome-Led-PixelClock/refs/heads/main/images/Korean-demo.gif" width="90%" max-height="150px" alt="StormLamp" /></a>
     </td>
     <td align="center" width="50%">
-      <img src="https://raw.githubusercontent.com/trip5/EspHome-VFD-Clock/refs/heads/main/images/VFD-Clock-Korean-demo.gif" width="90%" max-height="150px" alt="ESPHome-eInk-Board Weatherboard" />
+      <a href="https://github.com/trip5/EspHome-VFD-Clock"><img src="https://raw.githubusercontent.com/trip5/EspHome-VFD-Clock/refs/heads/main/images/VFD-Clock-Korean-demo.gif" width="90%" max-height="150px" alt="ESPHome-eInk-Board Weatherboard" /></a>
     </td>
   </tr>
   <tr>
@@ -121,7 +121,7 @@ I love programming but I'm not a professional.  Just obsessed with tinkering and
   </tr>
   <tr>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/trip5/Matrix-Fonts/refs/heads/main/images/MatrixFonts.png" width="90%" max-height="150px" alt="MatrixChunky8X Font" />
+      <a href="https://github.com/trip5/Matrix-Fonts"><img src="https://raw.githubusercontent.com/trip5/Matrix-Fonts/refs/heads/main/images/MatrixFonts.png" width="90%" max-height="150px" alt="MatrixChunky8X Font" /></a>
     </td>
   </tr>
   <tr>
