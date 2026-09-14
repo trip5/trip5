@@ -39,22 +39,22 @@ I love programming but I'm not a professional.  Just obsessed with tinkering and
 <table>
   <tr>
     <td align="center" width="50%">
-      <h3><a href="https://github.com/trip5/ehRadio">ehRadio</a></h3>
+      <h3><a href="https://trip5.github.io/ehRadio/">ehRadio</a></h3>
     </td>
     <td align="center" width="50%">
-      <h3><a href="https://github.com/trip5/eh-Device-Scanner">eh Device Scanner</a></h3>
+      <h3><a href="https://trip5.github.io/eh-Device-Scanner/">eh Device Scanner</a></h3>
     </td>
   <tr>
     <td align="center" width="50%">
-      <a href="https://github.com/trip5/ehRadio"><img src="https://raw.githubusercontent.com/trip5/ehRadio/refs/heads/main/images/logo-color.svg" width="90%" max-height="150px" alt="ehRadio" /></a>
+      <a href="https://trip5.github.io/ehRadio/"><img src="https://raw.githubusercontent.com/trip5/ehRadio/refs/heads/main/images/logo-color.svg" width="90%" max-height="150px" alt="ehRadio" /></a>
     </td>
     <td align="center" width="50%">
-      <a href="https://github.com/trip5/eh-Device-Scanner"><img src="https://raw.githubusercontent.com/trip5/eh-Device-Scanner/refs/heads/main/images/Feature.png" width="90%" max-height="150px" alt="MatrixChunky8X Font" /></a>
+      <a href="https://trip5.github.io/eh-Device-Scanner/"><img src="https://raw.githubusercontent.com/trip5/eh-Device-Scanner/refs/heads/main/images/Feature.png" width="90%" max-height="150px" alt="MatrixChunky8X Font" /></a>
     </td>
   </tr>
   <tr>
     <td align="center" width="50%">
-     ESP32 Radio<br />(forked from ёRadio)
+     An ESP32-S3 Radio Project<br />(user and builder-friendly)
     </td>
     <td align="center" width="50%">
       Android app that searches for devices that respond to <a href="https://github.com/trip5/ehdp">ehDP (eh Discovery Protocol)</a>.
@@ -66,15 +66,15 @@ I love programming but I'm not a professional.  Just obsessed with tinkering and
 <table>
   <tr>
     <td align="center" colspan="2">
-      <h3><a href="https://github.com/trip5/EspHome-Led-Clock">EspHome-Led-Clock</a></h3>
+      <h3><a href="https://trip5.github.io/EspHome-Led-Clock/">EspHome-Led-Clock</a></h3>
     </td>
   </tr>
   <tr>
     <td align="center" width="50%">
-      <a href="https://github.com/trip5/EspHome-Led-Clock"><img src="https://raw.githubusercontent.com/trip5/EspHome-Led-Clock/refs/heads/main/images/sinilink_XY-Clock.jpg" width="90%" max-height="150px" alt="Sinilink XY-Clock" /></a>
+      <a href="https://trip5.github.io/EspHome-Led-Clock/"><img src="https://raw.githubusercontent.com/trip5/EspHome-Led-Clock/refs/heads/main/images/sinilink_XY-Clock.jpg" width="90%" max-height="150px" alt="Sinilink XY-Clock" /></a>
     </td>
     <td align="center" width="50%">
-      <a href="https://github.com/trip5/EspHome-Led-Clock"><img src="https://raw.githubusercontent.com/trip5/EspHome-Led-Clock/refs/heads/main/images/TM1637-boxclock.jpg" width="90%" max-height="150px" alt="EspHome-Led-Clock BoxClock" /></a>
+      <a href="https://trip5.github.io/EspHome-Led-Clock/"><img src="https://raw.githubusercontent.com/trip5/EspHome-Led-Clock/refs/heads/main/images/TM1637-boxclock.jpg" width="90%" max-height="150px" alt="EspHome-Led-Clock BoxClock" /></a>
     </td>
   </tr>
   <tr>
@@ -86,18 +86,18 @@ I love programming but I'm not a professional.  Just obsessed with tinkering and
 <table>
   <tr>
     <td align="center" width="50%">
-      <h3><a href="https://github.com/trip5/EspHome-Led-PixelClock">EspHome-Led-PixelClock</a></h3>
+      <h3><a href="https://trip5.github.io/EspHome-Led-PixelClock/">EspHome-Led-PixelClock</a></h3>
     </td>
     <td align="center" width="50%">
-      <h3><a href="https://github.com/trip5/EspHome-VFD-Clock">EspHome-VFD-Clock</a></h3>
+      <h3><a href="https://trip5.github.io/EspHome-VFD-Clock/">EspHome-VFD-Clock</a></h3>
     </td>
   </tr>
   <tr>
     <td align="center" width="50%">
-      <a href="https://github.com/trip5/EspHome-Led-PixelClock"><img src="https://raw.githubusercontent.com/trip5/EspHome-Led-PixelClock/refs/heads/main/images/Korean-demo.gif" width="90%" max-height="150px" alt="StormLamp" /></a>
+      <a href="https://trip5.github.io/EspHome-Led-PixelClock/"><img src="https://raw.githubusercontent.com/trip5/EspHome-Led-PixelClock/refs/heads/main/images/Korean-demo.gif" width="90%" max-height="150px" alt="StormLamp" /></a>
     </td>
     <td align="center" width="50%">
-      <a href="https://github.com/trip5/EspHome-VFD-Clock"><img src="https://raw.githubusercontent.com/trip5/EspHome-VFD-Clock/refs/heads/main/images/VFD-Clock-Korean-demo.gif" width="90%" max-height="150px" alt="ESPHome-eInk-Board Weatherboard" /></a>
+      <a href="https://trip5.github.io/EspHome-VFD-Clock/"><img src="https://raw.githubusercontent.com/trip5/EspHome-VFD-Clock/refs/heads/main/images/VFD-Clock-Korean-demo.gif" width="90%" max-height="150px" alt="ESPHome-eInk-Board Weatherboard" /></a>
     </td>
   </tr>
   <tr>
@@ -116,12 +116,12 @@ I love programming but I'm not a professional.  Just obsessed with tinkering and
 <table>
   <tr>
     <td align="center">
-      <h3><a href="https://github.com/trip5/Matrix-Fonts">Matrix Fonts</a></h3>
+      <h3><a href="https://trip5.github.io/Matrix-Fonts/">Matrix Fonts</a></h3>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/trip5/Matrix-Fonts"><img src="https://raw.githubusercontent.com/trip5/Matrix-Fonts/refs/heads/main/images/MatrixFonts.png" width="90%" max-height="150px" alt="MatrixChunky8X Font" /></a>
+      <a href="https://trip5.github.io/Matrix-Fonts/"><img src="https://raw.githubusercontent.com/trip5/Matrix-Fonts/refs/heads/main/images/MatrixFonts.png" width="90%" max-height="150px" alt="MatrixChunky8X Font" /></a>
     </td>
   </tr>
   <tr>
